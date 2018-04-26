@@ -1,1 +1,1 @@
-console.log('adc');
+console.log('qwe');
